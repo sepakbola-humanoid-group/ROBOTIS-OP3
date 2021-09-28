@@ -162,6 +162,8 @@ int main(int argc, char **argv)
   g_demo_command_pub = nh.advertise<std_msgs::String>("/ball_tracker/command", 0);
 
   nh.param<bool>("gazebo", controller->gazebo_mode_, false);
+  nh.param<bool>("webot", controller->webot_mode_, false);
+
   g_is_simulation = controller->gazebo_mode_;
 
   /* real robot */

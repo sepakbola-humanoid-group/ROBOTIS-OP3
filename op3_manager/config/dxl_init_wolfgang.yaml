@@ -1,0 +1,166 @@
+HeadPan:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+HeadTilt:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+LAnklePitch:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+LAnkleRoll:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+LElbow:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+  shutdown: 56
+LHipPitch:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+LHipRoll:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+LHipYaw:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+LKnee:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+LShoulderPitch:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+  shutdown: 56
+LShoulderRoll:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+  shutdown: 56
+RAnklePitch:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+RAnkleRoll:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+RElbow:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+  shutdown: 56
+RHipPitch:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+RHipRoll:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+RHipYaw:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+RKnee:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+RShoulderPitch:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+  shutdown: 56
+RShoulderRoll:
+  max_position_limit: 4095
+  min_position_limit: 0
+  operating_mode: 3
+  position_d_gain: 0
+  position_i_gain: 0
+  position_p_gain: 800
+  return_delay_time: 1
+  shutdown: 56

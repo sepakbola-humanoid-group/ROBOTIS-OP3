@@ -4,6 +4,8 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(op3_action_module)
 
+set(CMAKE_CXX_STANDARD 14)
+
 ################################################################################
 # Find catkin packages and libraries for catkin and system dependencies
 ################################################################################
